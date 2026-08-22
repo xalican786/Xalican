@@ -1,6 +1,6 @@
 // src/config.js — XALICAN
 // All 20 Alchemy keys taken directly from ALUCARD's confirmed working config
-// Fake keys replaced. All chains now connect via real Alchemy endpoints.
+// Fake keys replaced. All chains now connect via real Alchemy endpoints
 
 import { ethers } from 'ethers'
 
